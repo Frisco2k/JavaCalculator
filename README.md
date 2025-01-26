@@ -16,7 +16,6 @@ This is a **GUI-based Calculator Application** built with **Java Swing** using `
 
 ### Work in Progress:
 - Fully implementing the GUI using Java Swing components.
-- Additional error handling (e.g., division by zero).
 - Enhancing the user interface for better usability.
 
 ## How to Run
@@ -47,8 +46,7 @@ Contributions are welcome! If you'd like to contribute, please:
 3. Commit your changes and push them to your fork.
 4. Open a pull request for review.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
 ---
 Feel free to reach out if you have any questions or suggestions!
